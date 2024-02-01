@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\bin\Debug\net8.0\csharphandson_Linq.exe
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\bin\Debug\net8.0\csharphandson_Linq.deps.json
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\bin\Debug\net8.0\csharphandson_Linq.runtimeconfig.json
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\bin\Debug\net8.0\csharphandson_Linq.dll
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\bin\Debug\net8.0\csharphandson_Linq.pdb
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.AssemblyInfo.cs
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.dll
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\refint\csharphandson_Linq.dll
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.pdb
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\csharphandson_Linq.genruntimeconfig.cache
+C:\Projects\C# Projects\csharphandson_Linq\csharphandson_Linq\obj\Debug\net8.0\ref\csharphandson_Linq.dll
